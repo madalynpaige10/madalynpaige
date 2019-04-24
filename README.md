@@ -2,7 +2,7 @@
 MIS Assignment 2
 <p>&nbsp;</p>
 
-<center><img src="Senior Pic.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
+<center><img src="Senior Pic.jpg" width="260" height="300" align="BOTTOM" /></center><hr />
 
 <p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>   this is a link ?
 
