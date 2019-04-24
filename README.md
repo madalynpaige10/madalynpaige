@@ -4,7 +4,7 @@ MIS Assignment 2
 
 <center><img src="Senior Pic.jpg" width="260" height="300" align="BOTTOM" /></center><hr />
 
-<p style="text-align: center;"><a href="https://www.youtube.com">Click Here</a> to go to my favorite site</p>   
+<p style="text-align: center;"><a href="https://www.youtube.com">Click Here</a> to go to my favorite site!</p>   
 
 <h1 style="text-align: center;">My name is Pitbull</h1>
 
