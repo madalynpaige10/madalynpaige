@@ -3,7 +3,7 @@ MIS Assignment 2
 <p>&nbsp;</p>
 <h1 style="text-align: center;">My name is Madalyn, welcome to my site!</h1>
 
-<center><img src="Senior Pic.jpg" width="260" height="300" align="BOTTOM" /></center><hr />
+<center><img src="Senior Pic.jpg" width="261" height="300" align="BOTTOM" /></center><hr />
   
 <body bgcolor = "LightSkyBlue">
 
