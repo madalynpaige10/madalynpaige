@@ -5,7 +5,7 @@ MIS Assignment 2
 
 <center><img src="Senior Pic.jpg" width="260" height="300" align="BOTTOM" /></center><hr />
   
-<body bgcolor = "Lavender">
+<body bgcolor = "LightSkyBlue">
 
 <p><strong>About Me</strong></p>
 
